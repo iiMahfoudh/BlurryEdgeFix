@@ -7,4 +7,5 @@ I've Tried sm tweaks to enhance overall windows system DPI but nothing helps wit
  - turn on/off Nvidia AA and FXAA
  
 Nothing Really Working Till I Dig into **[Edge://flags](Edge://flags)** and Change ANGLE graphic to **DirectX9 or DirectX11on12** , OpenGl and DirectX 11 have same probleme
+
 ![descriptive image](https://github.com/iiMahfoudh/BlurryEdgeFix/blob/main/thefix.jpg)
